@@ -41,8 +41,7 @@
 ## Gratitude and recognition of the organization and people involved in the program.
 
 * Although this project has been coded solely by myself I would like to give credit to HyperionDev
-* for planning the project work as part of the **Compulsory tasks** required to be completed for 
-* **The Data Science Bootcamp**. 
+* for planning the project work as part of the **Compulsory tasks** required to be completed for **The Data Science Bootcamp**. 
 
-* I also would like to **Thank** Snelisile Makhanya, HyperionDev mentor who reviewed and provided
+* I also would like to **Thank you!** Snelisile Makhanya, HyperionDev mentor who reviewed and provided
 * insightful feedback to the project.
